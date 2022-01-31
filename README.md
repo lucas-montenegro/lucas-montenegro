@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-montenegro)](https://github.com/lucas-montenegro/github-readme-stats)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-montenegro&show_icons=true&theme=cobalt)
 
 <!---
 lucas-montenegro/lucas-montenegro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
