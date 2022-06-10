@@ -9,7 +9,8 @@ const aboutMe = {
     contact: 'lucasmaassuncao@gmail.com',
     whatILike: ['Dogs and Cats', 'Games', 'Hero Movies', 'Front-end', 'Technology'],
     abilities: ['Html', 'CSS', 'SASS', 'Javascript', 'Typescript', 'ReactJS', 'NextJS'],
-    studyingAt: 'Rocketseat'
+    studyingAt: 'Rocketseat',
+    workAt: 'Visagio'
 }
 ```
 
