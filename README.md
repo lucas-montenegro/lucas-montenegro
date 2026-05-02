@@ -15,7 +15,7 @@ const aboutMe = {
 
 ## Social Media 💬
 
-<a href="https://www.linkedin.com/in/lucas-montenegro-andrade-assun%C3%A7%C3%A3o-3720391a0/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a> <a href="https://www.instagram.com/lucas_montenegro_aa/"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="30"></a>
+<a href="https://www.linkedin.com/in/lucas-montenegro-andrade-assun%C3%A7%C3%A3o-3720391a0/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a>
 
 ## Stats 📊
 
