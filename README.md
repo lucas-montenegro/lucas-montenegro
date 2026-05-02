@@ -5,11 +5,10 @@
 const aboutMe = {
     name: 'Lucas Montenegro',
     from: 'Alagoas, Brazil',
-    wasBornIn: '2000',
+    bornIn: '2000',
     contact: 'lucasmaassuncao@gmail.com',
     whatILike: ['Dogs and Cats', 'Games', 'Hero Movies', 'Front-end', 'Technology'],
-    abilities: ['Html', 'CSS', 'SASS', 'Javascript', 'Typescript', 'ReactJS', 'NextJS'],
-    studyingAt: 'Rocketseat',
+    abilities: ['Typescript', 'ReactJS', '.NET'],
     workAt: 'Visagio'
 }
 ```
